@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Experienced Backend and Frontend Developer
 
-<!--
-**amirrezaraadi/amirrezaraadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Backend and Frontend Developer with 13 years of expertise in developing user-friendly, adaptive, and responsive websites with optimized cross-browser compatibility and runtime performance.
 
-Here are some ideas to get you started:
+## Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+<img src="html_logo.png" width="40" height="40"> <img src="css_logo.png" width="40" height="40"> <img src="js_logo.png" width="40" height="40"> <img src="php_logo.png" width="40" height="40">
+
+### CSS Frameworks
+<img src="bootstrap_logo.png" width="40" height="40"> <img src="bulma_logo.png" width="40" height="40">
+
+### JavaScript Frameworks
+<img src="livewire_logo.png" width="40" height="40"> <img src="vue_logo.png" width="40" height="40">
+
+### CMS & PHP Frameworks
+<img src="wordpress_logo.png" width="40" height="40"> <img src="laravel_logo.png" width="40" height="40">
+
+### Database Management Systems
+<img src="mysql_logo.png" width="40" height="40">
