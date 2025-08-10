@@ -7,30 +7,30 @@ Experienced backend and frontend developer with over 4 years of experience speci
 
 ### Programming Languages
 <div style="display: flex; gap: 10px; align-items: center;">
-<img src="./images/html.png" width="40" height="40">
- <img src="./images/css.png" width="40" height="40"> 
- <img src="./images/javascript.png" width="40" height="40"> 
+ <img style="width:40px; height:40px; object-fit: contain; "src="./images/html.png" width="40" height="40">
+ <img style="width:40px; height:40px; object-fit: contain; "src="./images/css.png" width="40" height="40"> 
+ <img style="width:40px; height:40px; object-fit: contain; "src="./images/javascript.png" width="40" height="40"> 
 </div>
 
 ### CSS Frameworks
 <div style="display: flex; gap: 10px; align-items: center;">
-<img src="./images/tailwind.png" width="40" height="40">
+ <img style="width:40px; height:40px; object-fit: contain; "src="./images/tailwind.png" width="40" height="40">
 </div>
 
 ### JavaScript Frameworks and Library
 <div style="display: flex; gap: 10px; align-items: center;">
-<img src="./images/alpine.jpeg" width="40" height="40">
-<img src="./images/express.jpeg" width="40" height="40">
-<img src="./images/vue.png" width="40" height="40">
+ <img style="width:40px; height:40px; object-fit: contain;" src="./images/alpine.jpeg" width="40" height="40">
+ <img style="width:40px; height:40px; object-fit: contain;" src="./images/express.jpeg" width="40" height="40">
+ <img style="width:40px; height:40px; object-fit: contain;" src="./images/vue.png" width="40" height="40">
 </div>
 
 ### CMS & PHP Frameworks
 <div style="display: flex; gap: 10px; align-items: center;">
-<img src="./images/laravel.jpeg" width="40" height="40"> 
-<img src="./images/livewire.png" width="40" height="40">
+ <img style="width:40px; height:40px; object-fit: contain;" src="./images/laravel.jpeg" width="40" height="40"> 
+ <img style="width:40px; height:40px; object-fit: contain;" src="./images/livewire.png" width="40" height="40">
 </div>
 
 ### Database Management Systems
 <div style="display: flex; gap: 10px; align-items: center;">
-<img src="./images/mysql_logo.png" width="40" height="40">
+ <img style="width:40px; height:40px; object-fit: contain;" src="./images/mysql_logo.png" width="40" height="40">
 </div>
